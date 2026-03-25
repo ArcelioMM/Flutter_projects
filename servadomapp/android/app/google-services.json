@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "886679381049",
+    "project_id": "appservices-b1e40",
+    "storage_bucket": "appservices-b1e40.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886679381049:android:9045b4461ef90b09e8d9e8",
+        "android_client_info": {
+          "package_name": "com.monrroy.solutions.servadomapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbLiuaDr1mdpvpVMTFQmqDdF8pPHKGzOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886679381049:android:dcfaf28ff4bf18cae8d9e8",
+        "android_client_info": {
+          "package_name": "com.monrroy.solutions.usertoprof"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbLiuaDr1mdpvpVMTFQmqDdF8pPHKGzOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
